@@ -1,0 +1,8 @@
+table_set_default commut_table  _drop
+table_add commut_table commut_afdx 1 => 3
+table_add commut_table commut_afdx 2 => 2
+table_add commut_table commut_afdx 3 => 3
+table_add commut_table commut_afdx 4 => 1
+table_add commut_table commut_afdx 5 => 3
+table_add commut_table commut_afdx 6 => 2
+table_add commut_table commut_afdx 7 => 3
